@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web development
 - 👨🏻‍💻 I'm currently ranked Pupil@Codeforces, 3stars@Codechef, 5stars@HackerRank
 - 💞️ I’m looking to collaborate on GitHub
-- 📫 Reach me out through email: puravrokad037@gmail.com.
+- 📫 Reach me out through email: rokadpurav06@gmail.com.
 
 <!---
 PuravRokad/PuravRokad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
