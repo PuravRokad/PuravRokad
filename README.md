@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PuravRokad
 - 👀 I’m interested in Developing and Competitive Coding 
 - 🌱 I’m currently learning Web development
-- 👨🏻‍💻 I'm currently ranked Pupil@Codeforces, 3stars@Codechef, 5stars@HackerRank
+- 👨🏻‍💻 I'm currently ranked Specialist@Codeforces(Purav_07), 3stars@Codechef(purav_07), 5stars@HackerRank(puravrokad037)
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 Reach me out through email: rokadpurav06@gmail.com.
 
